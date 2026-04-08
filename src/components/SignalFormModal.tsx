@@ -18,8 +18,8 @@ const emptyLeg: TradeLeg = {
     exchange: "NSE",
     symbolName: "",
     quantityLots: 0,
-    side: "BUY",
-    productType: "INTRADAY",
+    side: "SELL",
+    productType: "NORMAL",
     strategyName: "TradingViewSignals",
     legs: 0,
 };
